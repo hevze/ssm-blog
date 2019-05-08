@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦芽</title>
+  
+  <subtitle>爱设计|爱生活 PS.为设计而生,做用户最好的伙伴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://songsimen.github.io/"/>
+  <updated>2019-05-08T08:32:24.304Z</updated>
+  <id>http://songsimen.github.io/</id>
+  
+  <author>
+    <name>meng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信小程序:许个愿吧蛋糕</title>
+    <link href="http://songsimen.github.io/2019/03/02/xiao-cheng-xu-fa-bu/"/>
+    <id>http://songsimen.github.io/2019/03/02/xiao-cheng-xu-fa-bu/</id>
+    <published>2019-03-02T04:10:31.000Z</published>
+    <updated>2019-05-08T08:32:24.304Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;微信小程序:许个愿吧蛋糕。&lt;/em&gt; &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="小程序" scheme="http://songsimen.github.io/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="http://songsimen.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序:许个愿吧蛋糕</title>
+    <link href="http://songsimen.github.io/2019/03/02/app/"/>
+    <id>http://songsimen.github.io/2019/03/02/app/</id>
+    <published>2019-03-02T04:10:31.000Z</published>
+    <updated>2019-05-08T08:40:55.902Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="http://songsimen.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+</feed>
