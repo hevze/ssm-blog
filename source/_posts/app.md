@@ -5,9 +5,8 @@ top: 1
 tags:
   - 小程序
 date: 2019-03-02 12:10:31
-photos: [
-            ["http://pr680iup8.bkt.clouddn.com/test2.png"]
-        ]
+img: http://pr680iup8.bkt.clouddn.com/xcx1.jpg
+coverImg: http://pr680iup8.bkt.clouddn.com/xcx1.jpg
 ---
 
 
