@@ -62,20 +62,20 @@
             <div class="cd-timeline-img day" data-aos="zoom-in-up">
                 <span><%- date(post.date, 'YYYY-MM-DD').substring(8, 10) %></span>
             </div>
-            <article class="cd-timeline-content" data-aos="fade-up">
+            <article class="cd-timeline-content" data-aos="fade-up" style="width:330px;">
                 <div class="article col s12 m6">
                     <div class="card">
                         <a href="<%- url_for(post.path) %>">
                             <div class="card-image">
                                 <% if (post.img) { %>
-                                <img src="<%= post.img %>" class="responsive-img" alt="<%- post.title %>">
+                                <img src="<%= post.img %>" class="responsive-img" style="width:330px;height:330px;" alt="<%- post.title %>">
                                 <% } else { %>
                                 <%
                                     var len = featureImages.length;
                                     var num = Math.abs(hashCode(post.title) % len);
                                     featureimg = featureImages[num];
                                 %>
-                                <img src="<%= featureimg %>" class="responsive-img" alt="<%- post.title %>">
+                                <img src="<%= featureimg %>" class="responsive-img" style="width:330px;height:330px;" alt="<%- post.title %>">
                                 <% } %>
                                 <span class="card-title"><%- post.title %></span>
                             </div>

@@ -163,7 +163,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #cac4c2 0%, #5f4e7a 100%);
 }
 
 .text-color {
@@ -179,7 +179,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #e4e8e8 0%, #0a1c37 100%);
     opacity: 0.8;
 }
 
@@ -372,7 +372,7 @@ header .go-back i {
     position: absolute;
     z-index: 1;
     width: 100%;
-    height: 100%;
+    height: 0;
     display: block;
     left: 0;
     top: 0;
@@ -706,7 +706,7 @@ article .card-image-index img {
 }
 
 article .card-image img {
-    height: 425px;
+    height: 352px;
     border-radius: 0.3rem;
     opacity: 1;
 }
