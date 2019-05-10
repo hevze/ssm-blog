@@ -163,7 +163,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #cac4c2 0%, #5f4e7a 100%);
+    background-image: linear-gradient(to right, #e9e7fe 0%, #a295fe 100%);
 }
 
 .text-color {
@@ -353,6 +353,20 @@ header .go-back i {
     background-position: center center;
     background-size: cover;
     transform: translate3d(0px, 0px, 0px);
+}
+
+.bg-index-head-cover {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 60vh;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    background-position: center center;
+    background-size: cover;
+    transform: translate3d(0px, 0px, 0px);
+	background-image: url('http://pr680iup8.bkt.clouddn.com/index-cover.png');
 }
 
 .index-cover {
